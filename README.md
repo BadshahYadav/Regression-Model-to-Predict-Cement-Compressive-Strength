@@ -1,1 +1,2 @@
 # Regression-Model-to-Predict-Cement-Compressive-Strength
+"This project involves building a regression model to predict the compressive strength of cement based on its composition and curing conditions. Using machine learning techniques, the model analyzes key features such as water content, cement ratios, and additives to deliver accurate strength predictions. It aims to assist in optimizing material design for stronger, more reliable construction outcomes."
